@@ -1,3 +1,6 @@
+## Pick a pic
+Gallery app for fetching photos using React and flicker API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
